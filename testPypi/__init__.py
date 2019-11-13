@@ -1,0 +1,1 @@
+from testPypi.testing import tester
